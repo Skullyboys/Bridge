@@ -15,11 +15,11 @@ const CROSS_CHAIN_ID = 137;
 const CHAIN_ID = 56;
 const GAS_LIMIT = "800000";
 
-const OWNER_ADDRESS = "0x31C91865CDb49dDdF50403Ded5B2CA08Ed116143";
-const pKey = "a6257fb6b2e04a272dadbc4ffe4a17483bc38256e5bc8dc0f4298dfe162555e4";
+const OWNER_ADDRESS = "owner address";
+const pKey = "your private key";
 
 const DOVE_ADDRESS = '0x2Bf56908B0f2440Ad11169d281967EB76665F8c6';
-const CROSS_SWAP_ADDRESS = "0x6E07257B6C90ae1402a5B3Dc3D8db5C03122dB22";
+const CROSS_SWAP_ADDRESS = "owner address";
 // const { swapHelper, priceHelper } = require("../helpers/");
 
 // const web3 = new Web3(new Web3.providers.HttpProvider(initConfig.bscRpc));
